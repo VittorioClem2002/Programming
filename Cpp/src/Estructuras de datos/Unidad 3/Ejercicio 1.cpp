@@ -1,5 +1,5 @@
 #include<iostream>
-#include<bits/Pila/Pila.h>
+#include<bits/Lib/Pila/Pila.h>
 
 void carga(Pila <char> &palabra, char l, int i=0){
     std::cout<<"Usted está en el caracter ["<<i+1<<"]: ";

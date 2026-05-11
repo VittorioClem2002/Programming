@@ -3,7 +3,7 @@
 
 
 #include <iostream>
-#include<bits/Cola/Cola.h>
+#include<bits/Lib/Cola/Cola.h>
 using namespace std;
 
 void cargar(Cola <char> &fila1,Cola <char> &fila2){
